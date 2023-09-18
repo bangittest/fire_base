@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "user_name": "",
+      "email": "banghanam01@gmail.com",
+      "password": "hngbfvcf",
+      "avatar": {},
+      "role": 1,
+      "username": "bangbautroi111",
+      "id": 4
+    },
+    {
+      "user_name": "",
+      "email": "banghanam01@gmail.com",
+      "password": "hngbfvcf",
+      "avatar": {},
+      "role": 1,
+      "username": "bangbautroi111",
+      "id": 5
+    },
+    {
+      "email": "banghanam02@gmail.com",
+      "password": "$2a$10$ZSi1DgFEuW7sFTm1MSx57Ow2.6GZ32wJx8b4vehqZR8h9OC7NM/xy",
+      "avatar": "",
+      "user_name": "m gngfbfvrthfd",
+      "dateOfBirthday": "2023-09-14",
+      "role": 1,
+      "id": 6
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$9ogmMLF0.U9EwhV9CY1cG.XxyIAATKYSI0CdKqTL/lXFRexNmDkPa",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/project-module02-f0164.appspot.com/o/images%2FAo-khoac-du-ao-khoac-gio-bomber-ao-thun-nam-dai-tay-co-tim-co-tron-1-mau-ve-rat-nhieu-mau-gia-ca-re-nhat-ao-khoac-gio-bomber.jpg?alt=media&token=30ef53b7-181f-4744-9210-670bdc4e1b3f",
+      "user_name": "m gngfbfv",
+      "dateOfBirthday": "2023-09-16",
+      "gender": 1,
+      "role": 1,
+      "id": 7
+    },
+    {
+      "email": "d@gmail.com",
+      "password": "$2a$10$QWsiDt1.77mscbPV7C5mmuHu5oFoAhN.pD463acOOohcnvqVLtStG",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/project-module02-f0164.appspot.com/o/images%2Fcav-empt-tee-bk116.jpg?alt=media&token=36c2a7d3-6cc0-4780-9e5a-eec27cfefae7",
+      "user_name": "sdasda",
+      "dateOfBirthday": "2023-09-15",
+      "gender": 1,
+      "role": 1,
+      "id": 8
+    },
+    {
+      "email": "d3@gmail.com",
+      "password": "$2a$10$mjKwbeXqtDmjw1REtJMF3uVGvovBTsdOM53sa755Ksp/aWjbBE1za",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/project-module02-f0164.appspot.com/o/images%2Fcav-empt-tee-bk116.jpg?alt=media&token=36c2a7d3-6cc0-4780-9e5a-eec27cfefae7",
+      "user_name": "dadasd34",
+      "dateOfBirthday": "2023-09-15",
+      "gender": 1,
+      "role": 1,
+      "id": 9
+    },
+    {
+      "email": "banghanam011@gmail.com",
+      "password": "$2a$10$Ztr6gLALeqT6./QY4J3QV.u/dIUebyINkXm.RDEuruMZtU9HLY6Gm",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/project-module02-f0164.appspot.com/o/images%2F20130112_171819.jpg?alt=media&token=df25535d-b6f3-4015-8951-f14443f52ce3",
+      "user_name": "bang ngangss",
+      "dateOfBirthday": "2023-09-14",
+      "gender": 1,
+      "role": 1,
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
